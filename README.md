@@ -12,11 +12,11 @@ Implementation of paper:   [PDF]()
 
 ### Overview
 
-- Source code for regular superpixel segmentation in the spherical space: 
+- Regular segmentation into superpixels of 360° spherical images: 
 
 ![image](./Figures/sphsps_ex.png)
 
-- Generalized Global Regularity Metric for evaluation of spatial superpixel regularity in the spherical space based on:
+- Generalized Global Regularity Metric (G-GR) for evaluation of spatial superpixel regularity in the spherical space based on:
 ```
 @InProceedings{gr2017,
     author   = {Rémi Giraud and Vinh-Thong Ta and Nicolas Papadakis},
