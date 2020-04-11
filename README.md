@@ -12,7 +12,7 @@ Implementation of paper:   [PDF]()
 
 ### Overview
 
-- Regular segmentation into superpixels of 360° spherical images: 
+- Segmentation of 360° spherical images into regular superpixels: 
 
 ![image](./Figures/sphsps_ex.png)
 
