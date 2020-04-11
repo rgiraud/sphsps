@@ -14,7 +14,7 @@ Implementation of paper:   [PDF]()
 
 - Source code for regular superpixel segmentation in the spherical space: 
 
-![image](./Figures/sphsps_example.png)
+![image](./Figures/sphsps_example2.png)
 
 - Generalized Global Regularity Metric for evaluation of spatial superpixel regularity in the spherical space based on:
 ```
