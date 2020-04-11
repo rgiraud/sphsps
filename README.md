@@ -80,3 +80,14 @@ These images are extracted from the [SUN360 dataset](https://vision.princeton.ed
 remi.giraud@u-bordeaux.fr  
 [rgiraud.vvv.enseirb-matmeca.fr](https://rgiraud.vvv.enseirb-matmeca.fr)  
 ENSEIRB-MATMECA (Bordeaux INP), Laboratory IMS
+
+This code is free to use, share and modify for any non-commercial purposes.
+Any commercial use is strictly prohibited without the authors' consent, also including authors from (li2015) since SphSPS uses some part of their code:
+```
+@InProceedings{li2015,
+    author   = {Jiansheng Chen and Zhengqin Li and Bo Huang},
+    title    = {Linear Spectral Clustering Superpixel},
+    booktitle  = {IEEE Transactions on Image Processing},
+    YEAR   = {2017},
+}
+```
