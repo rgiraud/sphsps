@@ -70,7 +70,7 @@ make
 ### Data
 
 The dataset of 75 manually annotated spherical images of size 512x1024 pixels capturing panoramas is available 
-[here](https://github.com/tdsuper/SphericalSuperpixels/edit/master/README.md)  
+[here](https://github.com/tdsuper/SphericalSuperpixels)  
 These images are extracted from the [SUN360 dataset](https://vision.princeton.edu/projects/2012/SUN360/data/) 
 
 
