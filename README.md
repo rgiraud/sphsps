@@ -1,6 +1,6 @@
 # SphSPS: Spherical Shortest Path-based Superpixels
 
-Implementation of paper:   [PDF]()  
+Implementation of paper:   [PDF]()
 ```
 @InProceedings{sphsps2020,
     author   = {Rémi Giraud and Rodrigo Borba Pinheiro and Yannick Berthoumieu},
