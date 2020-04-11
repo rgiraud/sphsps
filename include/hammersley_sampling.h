@@ -14,7 +14,7 @@
 /*
  * Hammersley point sets. Deterministic and look random.
  * Base p = 2, which is especially fast for computation.
-https://www.cse.cuhk.edu.hk/~ttwong/papers/udpoint/udpoints.html
+ * https://www.cse.cuhk.edu.hk/~ttwong/papers/udpoint/udpoints.html
  */
 void SphereHammersley(float *xyz_sphere, int n)
 {
@@ -30,7 +30,7 @@ void SphereHammersley(float *xyz_sphere, int n)
     t = 2.0 * t  - 1.0;                     // map from [0,1] to [-1,1]
 
     phi = (k + 0.5) / n;                    // a slight shift
-    phirad =  phi * 2.0 * pi; //M_PI;             // map to [0, 2 pi)
+    phirad =  phi * 2.0 * pi;             // map to [0, 2 pi)
 
     st = sqrt(1.0-t*t);
     xyz_sphere[pos] = st * cos(phirad);
