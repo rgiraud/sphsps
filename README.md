@@ -56,7 +56,7 @@ make
 
 - Execution prototype:
 ```
-./sphsps -i img_name [-k superpixel_nbr(1000)] [-m compactness(0.12)]  [-outm output_map_name(labelmap.png)] [-outb output_border_name(borders.png)]  [-c contour(NULL)]
+./SphSPS -i img_name [-k superpixel_nbr(1000)] [-m compactness(0.12)]  [-outm output_map_name(res/labelmap.png)] [-outb output_border_name(res/borders.png)]  [-c contour(NULL)]
 ```
 - Execution with contour map:  (make test)
 ``` 
