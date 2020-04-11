@@ -14,7 +14,7 @@ Implementation of paper:   [PDF]()
 
 - Segmentation of 360° spherical images into regular superpixels: 
 
-![image](./Figures/sphsps_ex.png)
+![image](./Figures/sphsps_example.png)
 
 - Generalized Global Regularity Metric (G-GR) for evaluation of spatial superpixel regularity in the spherical space based on:
 ```
