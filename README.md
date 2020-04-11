@@ -1,5 +1,7 @@
 # SphSPS: Spherical Shortest Path-based Superpixels
 
+### Overview
+
 Implementation of paper:   [PDF]()
 ```
 @InProceedings{sphsps2020,
@@ -9,8 +11,6 @@ Implementation of paper:   [PDF]()
     YEAR   = {2020},
 }
 ```
-
-### Overview
 
 - Segmentation of 360° spherical images into regular superpixels: 
 
