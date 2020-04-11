@@ -82,7 +82,7 @@ remi.giraud@u-bordeaux.fr
 ENSEIRB-MATMECA (Bordeaux INP), Laboratory IMS
 
 This code is free to use, share and modify for any non-commercial purposes.
-Any commercial use is strictly prohibited without the authors' consent, also including authors from (chen0217) since SphSPS uses some part of their code:
+Any commercial use is strictly prohibited without the authors' consent, also including authors from (chen2017) since SphSPS uses some part of their code:
 ```
 @InProceedings{chen2017,
     author   = {Jiansheng Chen and Zhengqin Li and Bo Huang},
