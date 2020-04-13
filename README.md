@@ -4,7 +4,7 @@
 
 Implementation of paper:   [PDF]() (submitted to ICPR 2020)
 ```
-@InProceedings{sphsps2020,
+@InProceedings{giraud2020sphsps,
     author   = {Rémi Giraud and Rodrigo Borba Pinheiro and Yannick Berthoumieu},
     title    = {Generalized Shortest Path-based Superpixels for Accurate Segmentation of Spherical Images},
     booktitle  = {arxiv preprint},
