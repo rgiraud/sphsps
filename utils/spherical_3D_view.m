@@ -2,9 +2,6 @@
 
 function spherical_3D_view(img,B,type,varargin)
 
-img = flipud(img);
-B = flipud(B);
-
 [h,w,z] = size(img);
 r = zeros(h,w);
 g = r;
@@ -53,12 +50,8 @@ switch type
         r(sp_pos) = color_label(1);
         g(sp_pos) = color_label(2);
         b(sp_pos) = color_label(3);
- 
-        BB = B;
-        BB(1,:) = 1;
-        BB(end,:) = 1;
-        ppbb = double(cat(3,r,g,b).*repmat(~BB,[1 1 z]));
         pp = double(cat(3,r,g,b).*repmat(~B,[1 1 z]));
+    
     case 'img'
         switch color_B
             case 'k'
@@ -77,7 +70,7 @@ end
 
 [x,y,z] = sphere(1000);
 
-figure,
+%figure,
 surface(x,y,z, 'FaceColor','texturemap', 'EdgeColor','none', 'Cdata', pp); 
 view(3)
 axis equal
