@@ -18,7 +18,7 @@ Implementation of paper:   [PDF]() (submitted to ICPR 2020)
 
 - Generalized Global Regularity Metric (G-GR) for evaluation of spatial superpixel regularity in the spherical space based on:
 ```
-@InProceedings{gr2017,
+@InProceedings{giraud2017gr,
     author   = {Rémi Giraud and Vinh-Thong Ta and Nicolas Papadakis},
     title    = {Evaluation Framework of Superpixel Methods with a Global Regularity Measure,
     booktitle  = {Journal of Electronic Imaging},
