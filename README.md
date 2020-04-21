@@ -2,7 +2,7 @@
 
 ### Overview
 
-Implementation of paper:   [PDF]() (submitted to ICPR 2020)
+Implementation of paper:   [PDF](https://arxiv.org/abs/2004.07394) (submitted to ICPR 2020)
 ```
 @InProceedings{giraud2020sphsps,
     author   = {Rémi Giraud and Rodrigo Borba Pinheiro and Yannick Berthoumieu},
