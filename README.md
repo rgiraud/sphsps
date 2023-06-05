@@ -6,9 +6,9 @@ Implementation of paper:   [PDF](https://arxiv.org/abs/2004.07394)
 ```
 @InProceedings{giraud2020sphsps,
     author   = {Rémi Giraud and Rodrigo Borba Pinheiro and Yannick Berthoumieu},
-    title    = {Generalized Shortest Path-based Superpixels for Accurate Segmentation of Spherical Images},
-    booktitle  = {International Conference on Pattern Recognition (ICPR 2020)},
-    YEAR   = {2020},
+    title    = {Generalization of the Shortest Path Approach for Superpixel Segmentation of Omnidirectional Images},
+    booktitle  = {Pattern Recognition (PR)},
+    YEAR   = {2023},
 }
 ```
 
@@ -78,7 +78,7 @@ These images are extracted from the [SUN360 dataset](https://vision.princeton.ed
 
 (C) Rémi Giraud, 2020  
 remi.giraud@u-bordeaux.fr  
-[https://rgiraud.vvv.enseirb-matmeca.fr](https://rgiraud.vvv.enseirb-matmeca.fr)  
+[https://remi-giraud.enseirb-matmeca.fr](https://remi-giraud.enseirb-matmeca.fr)   
 ENSEIRB-MATMECA (Bordeaux INP), Laboratory IMS
 
 This code is free to use, share and modify for any non-commercial purposes.
